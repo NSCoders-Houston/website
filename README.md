@@ -1,4 +1,3 @@
-We meet on the first Tuesday of every month at the ChaiOne office.
-> 1800 West Loop South
-> Suite 2100
-> Houston, TX 77027
+We meet on the first Tuesday of every month at Cedar Creek Bar & Grill.
+> 1034 W. 20th St</br>
+> Houston, TX 77008
