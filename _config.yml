@@ -1,4 +1,19 @@
-theme: jekyll-theme-tactile
+# General
+name: NSCoder Night Houston
+description: "Work on projects, get help, and discuss all things Apple."
+url: https://alextall.github.io/minimal-block
 
-title: NSCoders Houston
-description: Work on projects, get help, and discuss all things Apple.
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+
+paginate: 5
+permalink: /:title
+
+# Social share and comments.
+twitter: nscodershou
+meetup: https://www.meetup.com/NSCoder-Night-Houston/
+
+# RSS feed
+rss-feed-limit: 10
+rss-show-full: "no"
